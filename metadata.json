@@ -1,0 +1,6 @@
+{
+  "name": "FocusBlack",
+  "description": "Minimal OLED pitch-black focus lock application for digital detox with whitelisted apps and daily screen-time quotas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
